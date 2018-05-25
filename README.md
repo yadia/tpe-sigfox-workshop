@@ -5,20 +5,23 @@ To join one of our workshops check out our Meetup page [Taipei Sigfox User Group
 # Workshop Schedule
 Date | Location 
 ---------------|------------
-May 2018 | NTU
+May 26 2018 | Coworking space
 
 # Must have Materials
 
 ## Hardware
 Item  | Part Number | Amount 
 ------------ | -------------|------------
-Sigfox DevKit  |  | 1 
-LED| Single Color LED | 1 
-Micro USB cable | Type B. |
+Sigfox UnaShield |  | 1 
+Arduino | Uno | 1 
+Micro USB cable | Type A. |
 
 
 ## Software
 Please make sure to download the following software for the workshop
 
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
-- Arduino SAMD Boards (32-bits ARM Cortex-M0+) Library 
+- [UnaShield Library](https://github.com/UnaBiz/unabiz-arduino)
+
+### MT part
+- Arduino SAMD Boards (32-bits ARM Cortex-M0+) Library - Only for MT
